@@ -16,6 +16,15 @@ Click [here](https://www.credly.com/badges/146bf82d-0d13-47fd-9bba-ea200ab06ee4/
 
 **Related Skills:** `Enterprise Resource Planning (ERP)` `SAP` `SAP 4 Hana` `Cloud Computing` `Database`
 
+### Computer Programming, Enterprise Systems, and Communications and Networking - Issued 12/19
+![20240526_145635](https://github.com/yellowBrick01/awardsandcerts/assets/76761559/99a59343-ea4c-4bcf-bfc4-fcc92b015ba8)
+**Description:** The curriculum of these three certifcations fucntion as a holistic approach to ensure a well-rounded education in the field of information technology. Individually, the certifications are designed to:
+- *Computer Programming:* Prepare individuals for entry-level computer programming roles and other positions necessitating an advanced understanding of computer technology.
+- *Enterprise Systems:* Equip students with a comprehensive understanding and practical skills to navigate the intricacies of transaction processing and data queries in contemporary enterprise systems, with a special focus on the leading enterprise system within large organizations.
+- *Communications and Networking:* Readies individuals for roles in computer network management or other positions that demand a sophisticated knowledge of designing, installing, configuring, and maintaining computer networks.
+
+**Related Skills:** `Software` `Database` `Application Development` `Computer Programming` `Enterprise Resource Planning (ERP)` `SAP` `SAP 4 Hana` `Cloud Computing` `Database` `Data Analytics` `Data Visualization` `Computer Networking` `Cabling``Network Administration` `Cybersecurity`
+
 ### Mendix Rapid Developer - Issued 06/19
 ![Screenshot 2024-05-26 145900](https://github.com/yellowBrick01/awardsandcerts/assets/76761559/601922f0-3b8e-4428-8de3-f6c896396600)
 
