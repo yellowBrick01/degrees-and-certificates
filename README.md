@@ -1,5 +1,7 @@
-# Awards & Certifications
-## Zendesk: Explore / analytics - Issued 09/23
+# Degrees & Certifications
+## Degrees
+## Technical Certifications
+### Zendesk: Explore/Analytics - Issued 09/23
 <img width="200" alt="Learning_Path_Explore_analytics_2x" src="https://github.com/yellowBrick01/awardsandcerts/assets/76761559/b7bdb421-2480-4851-9608-b906a946b7f4">
 
 **Description:** This course goes through the basics of using the Explore feature on Zendesk. I learned how to create reports, dashboards, custom datasets and fields/attributes.<br/>
