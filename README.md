@@ -47,4 +47,4 @@ Click [Computer Programming](https://ecatalog.calstatela.edu/preview_program.php
 
 **Description:** Designed to validate a person's understanding of fundamental principles in rapid development by using the Mendix Application Platform.<br/>Click [here](https://academy.mendix.com/link/certifications/23/rapid) to learn more!
 
-**Related Skills:** `Application Development` `Database Design/Development` `Computer Programming` `System Analysis And Design` <br/> `System Administration`
+**Related Skills:** `Application Development` `Database Design/Development` `Computer Programming` `System Analysis And Design` `System Administration`
