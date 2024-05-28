@@ -5,14 +5,14 @@
 **Description:** Offers advanced technical and managerial skills. The curriculum is designed for those seeking career growth in Information Systems (IS)/Information Technology (IT), and prepares students to address complex IS/IT challenges in diverse professional environments.<br/>
 Click [here](https://www.calstatela.edu/business/gradprog/ms-information-systems) to learn more!
 
-**Related Skills:** `Enterprise Systems` `Business Intelligence (BI)` `Computer Networking` `Enterprise Resource Planning (ERP)` <br/>`Cloud Computing` `Database Design/Development` `Data Analytics/Visualization` `Project Management` `Cybersecurity` `Network Administration` `System Analysis And Design` `Application Development` `Computer Programming` `System Administration`
+**Related Skills:** `Enterprise Systems` `Business Intelligence (BI)` `Computer Networking` `Enterprise Resource Planning (ERP)` `Cloud Computing` `Database Design/Development` `Data Analytics/Visualization` `Project Management` `Cybersecurity` `Network Administration` `System Analysis And Design` `Application Development` `Computer Programming` `System Administration`
 
 ### Bachelor of Science in Computer Information Systems - Issued 12/19
 ![20240526_150758](https://github.com/yellowBrick01/awardsandcerts/assets/76761559/e1edb885-51f6-4af9-8849-40e249a3b77a)
 **Description:** Designed to equip students with the necessary knowledge for professional IT roles in organizations of all sizes. The program's courses teach students about various areas of IS, allowing students to delve into specific IT domains.<br/>
 Click [here](https://ecatalog.calstatela.edu/preview_program.php?catoid=66&poid=29960) to learn more!
 
-**Related Skills:** `Enterprise Systems` `Business Intelligence (BI)` `Computer Networking` `Enterprise Resource Planning (ERP)` <br/> `Cloud Computing` `Database Design/Development` `Data Analytics/Visualization` `Project Management` `Cybersecurity` `Network Administration` `System Analysis And Design` `Application Development` `Computer Programming` `System Administration`
+**Related Skills:** `Enterprise Systems` `Business Intelligence (BI)` `Computer Networking` `Enterprise Resource Planning (ERP)` `Cloud Computing` `Database Design/Development` `Data Analytics/Visualization` `Project Management` `Cybersecurity` `Network Administration` `System Analysis And Design` `Application Development` `Computer Programming` `System Administration`
 
 ## Technical Certifications :spiral_notepad:
 ### Zendesk: Explore/Analytics - Issued 09/23
