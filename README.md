@@ -47,4 +47,21 @@ Click [Computer Programming](https://ecatalog.calstatela.edu/preview_program.php
 
 **Description:** Designed to validate a person's understanding of fundamental principles in rapid development by using the Mendix Application Platform.<br/>Click [here](https://academy.mendix.com/link/certifications/23/rapid) to learn more!
 
+
 **Related Skills:** `Application Development` `Database Design/Development` `Computer Programming` `System Analysis And Design` `System Administration`
+
+## Professional Certifications :briefcase:
+### Certificate of Acheivement, California Food Handler - Issued 09/24
+![servsafe-certs](https://github.com/user-attachments/assets/527530ab-4cfa-485d-a5a2-8602140c09f4)
+
+**Description:** Intended to acquaint food service workers with fundamental food safety principles, this course covers safe food preparation, storage, and handling to prevent foodborne illnesses and cross-contamination.<br/>
+Click [here](https://www.servsafe.com/ServSafe-Food-Handler) to learn more!
+
+**Related Skills:** `Hospitality` `Food Safety` `Customer Support`
+### Alcohol Server Certification - Issued 09/24
+![RBS-certs](https://github.com/user-attachments/assets/de5ecce3-3019-473c-a05f-364ce108d05e)
+
+**Description:** Offers attendees practical guidance on the safe, responsible, and legal sale of alcoholic beverages, focusing on preventing sales to minors, visibly intoxicated individuals, and curbing illicit drug activities at the licensed venue<br/>
+Click [here](https://www.servsafe.com/ServSafe-Alcohol) to learn more!
+
+**Related Skills:** `Hospitality` `Food Safety` `Customer Support` `Public Safety` `Accesss Control`
