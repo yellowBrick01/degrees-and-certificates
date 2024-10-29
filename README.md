@@ -2,7 +2,7 @@
 ## Degrees :man_student:
 ### Master of Science in Information Systems - Issued 05/21
 ![20240526_150248](https://github.com/yellowBrick01/awardsandcerts/assets/76761559/565342f5-0f87-4e3a-9ef4-1ec3777f7b0c)
-**Description:** Offers advanced technical and managerial skills. The curriculum is designed for those seeking career growth in Information Systems (IS)/Information Technology (IT), and prepares students to address complex IS/IT challenges in diverse professional environments.<br/>
+**Description:** Teaches advanced technical and managerial skills. The curriculum is designed for those seeking career growth in Information Systems (IS)/Information Technology (IT), and prepares students to address complex IS/IT challenges in diverse professional environments.<br/>
 Click [here](https://www.calstatela.edu/business/gradprog/ms-information-systems) to learn more!
 
 **Related Skills:** `Enterprise Systems` `Business Intelligence (BI)` `Computer Networking` `Enterprise Resource Planning (ERP)` `Cloud Computing` `Database Design/Development` `Data Analytics/Visualization` `Project Management` `Cybersecurity` `Network Administration` `System Analysis And Design` `Application Development` `Computer Programming` `System Administration`
