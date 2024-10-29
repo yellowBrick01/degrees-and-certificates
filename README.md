@@ -1,4 +1,4 @@
-# Degrees & Certifications
+# Education
 ## Degrees :man_student:
 ### Master of Science in Information Systems - Issued 05/21
 ![20240526_150248](https://github.com/yellowBrick01/awardsandcerts/assets/76761559/565342f5-0f87-4e3a-9ef4-1ec3777f7b0c)
@@ -14,7 +14,7 @@ Click [here](https://ecatalog.calstatela.edu/preview_program.php?catoid=66&poid=
 
 **Related Skills:** `Enterprise Systems` `Business Intelligence (BI)` `Computer Networking` `Enterprise Resource Planning (ERP)` `Cloud Computing` `Database Design/Development` `Data Analytics/Visualization` `Project Management` `Cybersecurity` `Network Administration` `System Analysis And Design` `Application Development` `Computer Programming` `System Administration`
 
-## Technical Certifications :spiral_notepad:
+## Technical Certificates :spiral_notepad:
 ### Zendesk: Explore/Analytics - Issued 09/23
 <img width="200" alt="Learning_Path_Explore_analytics_2x" src="https://github.com/yellowBrick01/awardsandcerts/assets/76761559/b7bdb421-2480-4851-9608-b906a946b7f4">
 
@@ -50,7 +50,7 @@ Click [Computer Programming](https://ecatalog.calstatela.edu/preview_program.php
 
 **Related Skills:** `Application Development` `Database Design/Development` `Computer Programming` `System Analysis And Design` `System Administration`
 
-## Professional Certifications :briefcase:
+## Professional Certificates :briefcase:
 ### Certificate of Acheivement, California Food Handler - Issued 09/24
 ![servsafe-certs](https://github.com/user-attachments/assets/527530ab-4cfa-485d-a5a2-8602140c09f4)
 
